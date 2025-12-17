@@ -97,7 +97,7 @@ const TestingResults = () => {
                         <div style={{ position: 'relative' }}>
                             <FaQuoteLeft style={{ fontSize: '1.5rem', color: '#00aa13', opacity: 0.3, position: 'absolute', top: '-8px', left: '-5px' }} />
                             <p style={{ position: 'relative', zIndex: 1, fontSize: '1.15rem', fontStyle: 'italic', lineHeight: '1.6', color: '#374151', margin: 0, paddingLeft: '2rem' }}>
-                                "Tampilannya sederhana dan alurnya gampang dipahami. Cocok untuk pengguna baru seperti saya yang tidak suka aplikasi ribet."
+                                "Tampilannya sederhana dan alurnya gampang dipahami. Cocok untuk pengguna seperti saya yang tidak suka aplikasi ribet."
                             </p>
                         </div>
                     </div>
