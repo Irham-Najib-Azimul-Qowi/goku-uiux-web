@@ -62,7 +62,7 @@ const TestingResults = () => {
                     {/* FOTO TESTER (KIRI) */}
                     <div style={{ flexShrink: 0 }}>
                         <div style={{
-                            width: '140px', height: '140px',
+                            width: '250px', height: '140px',
                             borderRadius: '24px', // Persegi dengan sudut tumpul
                             overflow: 'hidden',
                             border: '4px solid #f0fdf4',

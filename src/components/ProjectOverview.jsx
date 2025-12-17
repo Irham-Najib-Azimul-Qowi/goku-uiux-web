@@ -106,7 +106,7 @@ const ProjectOverview = () => {
                                 Why <span style={{ color: '#00aa13' }}>GOKU?</span>
                             </h2>
                             <p style={{ fontSize: '1.1rem', color: '#d1d5db', lineHeight: '1.8', marginBottom: '2rem' }}>
-                                Banyak aplikasi transportasi saat ini terjebak dalam fenomena <b>"Super App Fatigue"</b>. Pengguna dibombardir dengan ratusan fitur (pesan makan, bayar tagihan, belanja) padahal mereka hanya butuh tumpangan.
+                                Banyak aplikasi transportasi saat ini terjebak dalam fenomena <b>"Super App Fatigue"</b>. Pengguna dihadapkan dengan ratusan fitur (pesan makan, bayar tagihan, belanja) padahal mereka hanya butuh tumpangan.
                             </p>
                             <p style={{ fontSize: '1.1rem', color: '#d1d5db', lineHeight: '1.8' }}>
                                 Akibatnya? Aplikasi jadi berat, lambat, dan membingungkan—terutama bagi pengguna lanjut usia.
@@ -178,7 +178,7 @@ const ProjectOverview = () => {
                                                 Fresh Identity
                                             </h4>
                                             <p style={{ fontSize: '0.9rem', color: '#d1d5db', margin: 0 }}>
-                                                Visual hijau yang menyegarkan, berbeda dari kompetitor yang sudah ada.
+                                                Visual hijau yang menyegarkan, berbeda dari aplikasi yang sudah ada.
                                             </p>
                                         </div>
                                     </li>

@@ -43,7 +43,7 @@ const DesignProcess = () => {
     // Data Tabs (Phase 2)
     const tabs = [
         { 
-            id: 'crazy8', label: "Crazy 8's", icon: <FaPencilRuler />, 
+            id: 'crazy8', label: "Crazy's 8", icon: <FaPencilRuler />, 
             desc: "Sketsa cepat 8 ide dalam 8 menit untuk eksplorasi layout kreatif.",
             embed: "https://embed.figma.com/board/chMnJzBSnzV8seGfzB1iLD/Crazy-s-8?node-id=0-1&embed-host=share" 
         },
